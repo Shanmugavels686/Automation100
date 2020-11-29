@@ -1,6 +1,6 @@
 SQL
 Splunk
-PYTHON
+PYTHON version new
 SELENIUM
 AWS
 
